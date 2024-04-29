@@ -1,0 +1,47 @@
+{
+  "manufacturer": "LTKSK",
+  "keyboard_name": "adele_t",
+  "maintainer": "LTKSK",
+  "bootloader": "caterina",
+  "diode_direction": "COL2ROW",
+  "features": {
+    "bootmagic": true,
+    "command": false,
+    "console": false,
+    "extrakey": true,
+    "mousekey": true,
+    "nkro": true
+  },
+  "matrix_pins": {
+    "cols": [
+      "D3",
+      "D2",
+      "D1",
+      "D0",
+      "D4",
+      "C6",
+      "D7",
+      "E6"
+    ],
+    "rows": [
+      "B6",
+      "B2",
+      "B3",
+      "D7",
+      "F5",
+      "F4"
+    ]
+  },
+  "processor": "atmega32u4",
+  "url": "",
+  "usb": {
+    "device_version": "1.0.0",
+    "pid": "0x0000",
+    "vid": "0xFEED"
+  },
+  "layouts": {
+    "LAYOUT": {
+      "layout": []
+    }
+  }
+}
