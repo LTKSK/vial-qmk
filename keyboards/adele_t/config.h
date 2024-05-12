@@ -14,3 +14,8 @@
 
 // これがないと直感と真逆に動く
 #define POINTING_DEVICE_ROTATION_180
+
+// 容量削減のため
+// @see https://zenn.dev/koron/articles/98324ab760e83a
+#undef LOCKING_SUPPORT_ENABLE
+#undef LOCKING_RESYNC_ENABLE
