@@ -1,6 +1,6 @@
 #include "quantum.h"
 #include <math.h>
-#include "adele_s.h"
+#include "adele_t.h"
 #include "wait.h"// keyboardレイヤでのinitialize
 
 // ハードウェアに関する設定はここ。今回はcpiの設定をしている
